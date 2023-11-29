@@ -1,3 +1,3 @@
 # mern_backend
 mern para backend
-este es el primer deploy en jenkins 1
+este es el primer deploy en jenkins 2
